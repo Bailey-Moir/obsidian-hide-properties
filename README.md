@@ -1,0 +1,1 @@
+Changes callouts to look more like latex definitions/theorems.
